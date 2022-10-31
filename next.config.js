@@ -28,6 +28,7 @@ const nextConfig = {
     legacyBrowsers: false,
     swcFileReading: true,
   },
+  basePath: '/daedalos',
   optimizeFonts: false,
   productionBrowserSourceMaps: false,
   reactStrictMode: true,
